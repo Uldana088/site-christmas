@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    background: url('https://files.oaiusercontent.com/file-JRqZkysLq8uJdc3BeNDVCx?se=2024-12-24T10%3A47%3A48Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D23cc4aad-200e-4932-ac7f-18d2eb77037e.webp&sig=SEkbOGUXZkf9tZ8tLTQuHT8GeQWc4P45ryz%2B/ZUe%2BVs%3D') no-repeat  center;
+    background: red;
     background-size: cover;
     height: 90vh;
 }
